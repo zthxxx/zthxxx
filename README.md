@@ -1,17 +1,17 @@
-<h2> Hello World! <img src="./images/hi.webp" width="32px"> </h2>
+<h1> Hello World! <img src="./images/hi.webp" height="36px"> </h1>
 
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_icons=true&hide_title=true&hide_rank=true&count_private=true&show_bg=1&username=zthxxx" alt="zthxxx's Github Stats"/>
 
-Hi, I'm **zthxxx**, a web developer
+Hi, I'm **zthxxx**, a web developer 😄
 
 💖 Love open-source work and watching anime 👀
 
 💡 Passion for do project that improve dev experience, or relate to anime
 
-⚡ Always learn some cool technology driven by curiosity 😎
+⚡ Always in learning some cool technology driven by curiosity 😎
 
 
-### Tools & Interests
+## Tools & Interests
 
 [![](https://img.shields.io/badge/macOS-Big%20Sur-cd48a5?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur)
 [![](https://img.shields.io/badge/Linux-Debian-a42050?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org)
@@ -34,19 +34,19 @@ Hi, I'm **zthxxx**, a web developer
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org)
 
 
-### Games
+## Games
 
 ![Genshin Impact](https://genshin-card.getloli.com/detail/rand/74042918.png)
 
 
-<h3>
+<h2>
   <img height="40" src="./images/kyubey.gif"/>
   <img height="20" src="./images/soulgem-sayaka.gif"/>
   <img height="20" src="./images/soulgem-homura.gif"/>
   <img height="20" src="./images/soulgem-madoka.gif"/>
   <img height="20" src="./images/soulgem-sayaka.gif"/>
   <img height="20" src="./images/soulgem-kyoko.gif"/>
-</h3>
+</h2>
 
 
 ![Viewer](https://count.getloli.com/get/@zthxxx?theme=moebooru)
