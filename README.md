@@ -36,7 +36,7 @@ Hi, I'm **zthxxx**, a web developer 😄
 
 ## Games
 
-![Genshin Impact](https://genshin-card.getloli.com/detail/rand/74042918.png)
+![Genshin Impact](https://genshin-card-jad.zthxxx.repl.co/detail/rand/74042918.png)
 
 
 <h2>
