@@ -1,6 +1,6 @@
 <h1> Hello World! <img src="./images/hi.webp" height="36px"> </h1>
 
-<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_icons=true&hide_title=true&hide_rank=true&count_private=true&show_bg=1&username=zthxxx" alt="zthxxx's Github Stats"/>
+<img align="right" src="https://touhou-github-readme-stats.vercel.app/api?show_icons=true&hide_title=true&hide_rank=true&count_private=true&show_bg=1&card_width=500&username=zthxxx" alt="zthxxx's Github Stats"/>
 
 Hi, I'm **zthxxx**, a web developer 😄
 
@@ -32,11 +32,6 @@ Hi, I'm **zthxxx**, a web developer 😄
 [![](https://img.shields.io/badge/-Kubernetes-3d6ede?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io)
 [![](https://img.shields.io/badge/-GitHub%20Actions-1989ee?style=flat-square&logo=github%20actions&logoColor=ffffff)](https://github.com/features/actions)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org)
-
-
-## Games
-
-![Genshin Impact](https://genshin-card-jad.zthxxx.repl.co/detail/rand/74042918.png)
 
 
 <h2>
